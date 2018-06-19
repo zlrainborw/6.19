@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class='warp'>
+        <header>
+            <a href="javascript:;">
+                <img src="./img/tu1.png" alt="">
+            </a>
+            <a href="javascript:;">
+                <span>必买大牌</span>
+            </a>
+            <a href="javascript:;">
+                <img src="./img/tu2.png" alt="">
+            </a>
+        </header>
+        <section>
+            <ul class='list'></ul>
+            <script type='text/x-handlebars-template' id='list_tpl'>
+                {{#each this}}
+                    <li>
+                        <img src="{{img}}" alt="">
+                        <p>{{title}}</p>
+                    </li>
+               {{/each}}
+           </script>
+
+        </section>
+        <footer></footer>
+    </div>
+    <script src='./js/libs/require.js'></script>
+    <script>
+        require(['./js/main.js'], function () {
+            require(['index'])
+        })
+    </script>
+</body>
+
+</html>

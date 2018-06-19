@@ -1,0 +1,1 @@
+*{margin:0;padding:0;list-style:none;text-decoration:none}html,body{width:100%;height:100%;overflow:hidden}.warp{width:100%;height:100%;overflow:hidden;display:flex;flex-direction:column}header{width:100%;height:44px;background:#7A0505;display:flex;justify-content:space-around;align-items:center;line-height:44px}header a{color:#fff}section{flex:1;overflow:scroll}

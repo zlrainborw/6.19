@@ -1,0 +1,56 @@
+[
+    {
+        "type": "必买大牌",
+        "isDir": true,
+        "img":"./img/banner1.png",
+        "title":"满300减70"
+    },
+    {
+        "type": "必买大牌",
+        "isDir": true,
+        "img":"./img/banner2.png",
+        "title":"买4件真便宜"
+    },
+    {
+        "type": "必买大牌",
+        "isDir": true,
+        "img":"./img/banner3.png",
+        "title":"满300减30"
+    },
+    {
+        "type": "必买大牌",
+        "isDir": true,
+        "img":"./img/banner7.png",
+        "title":"0-2点3件8折"
+    },
+    {
+        "type": "必买大牌",
+        "isDir": true,
+        "img":"./img/banner5.png",
+        "title":"抢2件5折"
+    },
+    {
+        "type": "必买大牌",
+        "isDir": true,
+        "img":"./img/banner6.png",
+        "title":"满399减100"
+    },
+    {
+        "type": "必买大牌",
+        "isDir": true,
+        "img":"./img/banner7.png",
+        "title":"夏季新品5折"
+    },
+    {
+        "type": "必买大牌",
+        "isDir": true,
+        "img":"./img/banner8.png",
+        "title":"满399减30"
+    },
+    {
+        "type": "必买大牌",
+        "isDir": true,
+        "img":"./img/banner9.png",
+        "title":"抢300新品5折"
+    }
+]
